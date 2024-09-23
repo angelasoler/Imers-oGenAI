@@ -7,13 +7,6 @@ import google.generativeai as genai
 
 import ollama
 
-from IPython.display import Markdown
-import textwrap
-
-def to_markdown(text):
-  text = text.replace('•', '  *')
-  return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
-
 def format_prompt(job_description):
     prompt = f'Analise esta vaga de emprego. Pule o preâmbulo. Mantenha sua resposta \
             concisa e escreva apenas as informações  necessárias sem nenhum comentario \
@@ -46,7 +39,7 @@ def gemini_request(formatted_prompt):
     model = genai.GenerativeModel('gemini-1.5-flash')
     response = model.generate_content(formatted_prompt)
 
-    return to_markdown(response.text)
+    return response.text
 
 def qwen_request(formatted_prompt):
     response = ollama.chat(model='qwen2:1.5b', messages=[
