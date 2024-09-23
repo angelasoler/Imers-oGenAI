@@ -11,8 +11,9 @@ Este repositório contém o projeto desenvolvido durante a **Imersão GenAI**, o
 - **Objetivo:** Uso de Python para capturar dados da API da Wikipedia e web scraping do site para seguir o "Roads to Philosophy" apartir do input.
 
 ### Projeto 3: Modelos Locais e por API
-- **Objetivo:** Testamos modelos como **Qwen** (local), **LLaMA com Groq** e **Gemini** para analisar vagas de emprego e retornar os dados de maneira estruturada.
-- **Ferramentas adicionais:** Engenharia de prompt com **role promting** e estruturação do prompt com **XML** para otimizar as solicitações.
+   - **Técnica:** Completion prompting e estruturação do prompt com **XML*
+     
+      - Descrição: Testamos modelos como **Qwen** (local), **LLaMA com Groq** e **Gemini** para analisar vagas de emprego e retornar os dados de maneira estruturada.
 
 ### Técnicas de Prompting Utilizadas no Projeto 4
 
