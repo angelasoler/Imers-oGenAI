@@ -18,14 +18,12 @@ Este repositório contém o projeto desenvolvido durante a **Imersão GenAI**, o
 ### Técnicas de Prompting Utilizadas no Projeto 4
 
 - **ex00: Análise de Sentimentos**
-  - **Técnica:** Zero-shot prompting
-    - Descrição: Foi solicitado ao modelo classificar comentários sem exemplos prévios no prompt, baseando-se apenas nas instruções fornecidas.
+  - **Técnica:** Few-shot prompting
+    - Descrição: Alguns exemplos de análises anteriores foram incluídos no prompt para guiar o modelo em como estruturar a resposta.
 
 - **ex01: Análise de Perspectivas (École 42)**
   - **Técnica:** Role prompting
     - Descrição: Utilizamos diferentes "papéis" (educador, estudante, recrutador) para guiar o modelo a responder a partir de perspectivas específicas.
-  - **Técnica:** Few-shot prompting
-    - Descrição: Alguns exemplos de análises anteriores foram incluídos no prompt para guiar o modelo em como estruturar a resposta.
 
 - **ex02: Análise de Filmes**
   - **Técnica:** Structured output prompting e Few-shot prompting
