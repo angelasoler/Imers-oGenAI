@@ -1,0 +1,80 @@
+Somos o PAN
+
+Ágeis, flexíveis e criativos, exploramos possibilidades com disposição e desejo de fazer acontecer. Sempre prontos para encarar novos desafios, nutrimos líderes que, além de ter garra, são abertos e empáticos, veem na proximidade das relações, o elo entre cada um.
+
+Nossa missão, se faz cumprida quando transformamos a vida dos outros através dos nossos conhecimentos. Nossos pilares de cultura, reforçam nossa postura idealizadora e com desejo de fazer acontecer: T rabalho em equipe, O usadia empreendedora e P rotagonismo com profundidade.
+
+Dominamos nossos processos e trazemos melhorias para quem deseja ter uma vida financeira mais inteligente.
+
+Principais desafios:
+
+    Atuar e suportar todo o ambiente AWS;
+    Atuar com infraestrutura de containers (EKS e OpenShift);
+    Noções de Troubleshooting de ambientes de missão crítica;
+    Apoiar no suporte de esteira CI\CD, com conhecimento desejável em Jenkins e Azure DevOps;
+    Criar automações visando a redução de trabalho operacional;
+    Atuar na sustentação e suporte de ambientes PRD, HML, QA e DEV (OnPremises e Cloud);
+    Atuação e condução de incidentes críticos junto com as demais áreas da estrutura;
+    Execução e apoio em mudanças sistêmicas;
+    Realizar monitoria da performance e troubleshooting de desempenho;
+    Desenvolver atividades utilizando infra as a Code;
+    Atuar conjuntamente com área de desenvolvimento de sistemas, realizando suporte e validação de aplicações.
+
+Quais as principais competências para a posição?
+
+    Superior em andamento voltado para área de tecnologia;
+    Conhecimento de ambientes de Missão Crítica;
+    Organização, Resiliência e Visão Estratégica;
+    Conhecimento em Sistemas Operacionais Windows e Unix;
+    Conhecimento em ambientes cloud AWS e Containers;
+    Habilidades de resolução de problemas e gerenciamento de tempo.
+    Interesse em lidar com situações adversas e inovadoras no âmbito tecnológico;
+    Disponibilidade para atuar em regime de sobreaviso.
+
+Modelo de atuação: Híbrido (3 dias de home office e 2 dias presenciais no escritório).
+
+Horário de atuação : 14:00 - 23:00.
+
+Benefícios do PAN:
+
+    Bônus / PLR 🤑
+    Vale Refeição 🍔
+    Vale Alimentação 🍝
+    13º de Vale Alimentação 🤌
+    Convênio Médico (internação em apartamento para titular e dependentes) 🏥
+    Convênio Odonto/Ortodôntico 😁
+    Ambulatório Médico no escritório 🚑
+    Telemedicina Dr. Alper (Einstein Conecta) ilimitado. 🩺
+    Seguro de Vida ❤
+    Descontos em mais de 10 mil farmácias 💊
+    4 Sessões de psicoterapia por mês 🤝
+    Licença familiar estendida (Responsável 6 meses e corresponsável 30 dias) 👨‍🍼🤱
+    Auxílio Creche / Babá 🎒
+    AcomPANha (programa de acompanhamento para gestantes) 🫃🤰
+    Gympass/Totalpass 💪
+    Auxílio tecnologia assistivas (reembolso de 85% para colaboradores com deficiência) 🦻🦽
+    Day Off Aniversário 🎉
+    Day Off Tempo de Casa 🕛
+    Programa de reconhecimento por tempo de casa 🏆
+    Programas de desenvolvimento 📚
+    Gamificação em certificações e desenvolvimento (BitPANs) 🎫
+    Massagem e Auriculoterapia 💆‍♀️💆‍♂️
+    Salão de beleza no escritório 💇‍♂️💅
+    PAE (Orientação Jurídica, Financeira, Psicológica e Social) 🧑‍🎓
+    Serviço Social 🤗
+    Portal de descontos em diversos segmentos (Allya) 🤑
+    Campanha de vacinação (colaborador e dependente) 💉
+    Facilitação no financiamento de veículos 🚗
+    Cartão de crédito PAN com limite diferenciado 💳
+    Vale Transporte (desconto de apenas 4%) 🚆
+    Assistência Funeral 🤍
+
+Assim como todas as nossas vagas, essa também é destinada à diversidade e inclusão. Independentemente de qualquer fator, perfil ou característica, Expanda sua carreira no PAN !
+
+Para conhecer mais sobre nossos benefícios e cultura, acesse o Trabalhe Conosco:
+
+https://www.bancopan.com.br/trabalhe-conosco/
+
+Acesse também nossa página na Glassdoor e veja nossas avaliações:
+
+https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Banco-PAN-EI_IE1184444.13,22.ht 
