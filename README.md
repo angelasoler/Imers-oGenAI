@@ -15,7 +15,7 @@ Este repositório contém o projeto desenvolvido durante a **Imersão GenAI**, o
      
       - Descrição: Testamos modelos como **Qwen** (local), **LLaMA com Groq** e **Gemini** para analisar vagas de emprego e retornar os dados de maneira estruturada.
 
-### Técnicas de Prompting Utilizadas no Projeto 4
+### Projeto 4: Introdução ao Promting
 
 - **ex00: Análise de Sentimentos**
   - **Técnica:** Few-shot prompting
@@ -39,7 +39,7 @@ Este repositório contém o projeto desenvolvido durante a **Imersão GenAI**, o
 ### Projeto 5: Segurança em APIs
 - **Objetivo:** Estudo sobre OWASP Top 10 API Security Risks.
 
-### Técnicas de Prompting Utilizadas no Projeto 6
+### Projeto 6: Criação de Embeddings e Geração de Respostas com RAG
 
 - **ex00: Criação de Embeddings e Retorno de Trechos Relacionados**
   - **Técnica:** Embedding-based retrieval
